@@ -1,0 +1,39 @@
+.para{
+    background-color: rgb(135, 135, 171);
+}
+body{
+    background-color: yellowgreen;
+}
+
+b{
+    text-shadow: 2px 2px 8px blue;
+}
+
+h1{
+    text-shadow: 2px 2px 8px black;
+}
+
+h4{
+    text-shadow: 2px 2px 8px red;
+}
+#list{
+    background-color: blueviolet;
+}
+.super{
+    color:red;
+}
+
+.newClass{
+    background-color: blueviolet;
+}
+
+#btn{
+    width:100px;
+    height:50px;
+    background-color: blue;
+}
+#btn2{
+    width:100px;
+    height:50px;
+    background-color: rgb(35, 180, 213);
+}
